@@ -1,0 +1,14 @@
+{
+  "name": "travis_ci_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^0.8.2"
+  }
+}
