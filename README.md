@@ -4,7 +4,7 @@
 
 
 ## 使用步骤
-1. 今天Travis CI 官网，使用github账号登录。
+1. 进入Travis CI 官网，使用github账号登录。
 
 2. 进入Accounts页面，开启仓库开关。
 
